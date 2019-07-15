@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .myName {
   background-color: #4aaaa5;
   color: aliceblue;
@@ -40,7 +39,7 @@ a {
   margin-top: 20px;
 }
 
-.pHolder{
+.pHolder {
   bottom: 6px;
   width: 250px;
   position: absolute;
@@ -61,37 +60,4 @@ h1 {
   .card {
     max-width: 65%;
   }
-=======
-body {
-  color: #777777;
-  background: url("../images/email-pattern.png");
-  font-family: Arial,
-                "Helvetica Neue",
-                Helvetica,
-                sans-serif;
-  font-size: 18px;
-  line-height: 34px;
-}
-
-.container {
-  max-width: 960px;
-  background-color: #ffffff;
-}
-
-.navbar-header {
-    /* z-index: 99; */
-    /* position: fixed; */
-    /* width: 100%; */
-    /* margin: 0 0 30px; */
-    color: #ffffff;
-    /* overflow: auto; */
-    /* border-bottom: 2px solid #cccccc; */
-    background: #ffffff;
-    line-height: 100px;
-
-}
-
-.main-section{
-  margin-top: 50px;
->>>>>>> 8094a5c3eb7b274fe931d50ac7af2073c1c8edd5
 }
